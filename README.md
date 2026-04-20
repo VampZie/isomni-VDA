@@ -59,11 +59,19 @@ The engineering within this repo solves the **"Isomer Resolution Problem"** in s
 
 ---
 
-## 📜 Intellectual Property & Authorship
+## 📜 Intellectual Property & Legal Notice
 
-- **Status:** Manuscript in Communication / Dissertation Objective 1
-- **Primary Developer:** Vidit Zainith ([@VampZie](https://github.com/VampZie))
-- **Team:** Research Collaborative Portfolio
+- **Research Status:** Manuscript in Communication / Proprietary Clinical Methodology.
+- **Attribution:** **Vidit Zainith ([@VampZie](https://github.com/VampZie))** served as the **Principal Computational Architect and Bug-Resolution Lead** for the implementation and optimization of these multi-omics modules.
+- **Portfolio Disclaimer:** This repository is curated exclusively for **Professional Portfolio Demonstration**. The methodologies, skeleton-logics, and algorithmic architectures represent prioritized research assets of the author and the Research Collaborative Team.
+- **Legal Enforcement:** Unauthorized replication, commercial redistribution, or derivative utilization of the proprietary logic structures contained herein without explicit written authorization is strictly prohibited. Any infringement of Intellectual Property Rights (IPR) will be addressed through formal legal channels in accordance with international copyright and academic integrity laws.
+- **Temporal Attribution (Prior Art):** This repository was published and archived on this platform as of **April 21, 2026**. This timestamp serves as public, immutable evidence of methodological authorship and prior art for all internal architectures displayed.
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F37335&background=FFFFFF00&center=true&vCenter=true&lines=Prior+Art+Archived:+2026-04-21+%F0%9F%9B%A1%EF%B8%8F" alt="IPR Protective Banner" />
+</div>
 
 ---
 
