@@ -25,6 +25,13 @@ This repository contains the **computational engineering skeleton** developed fo
 
 ---
 
+> [!CAUTION]
+> **STRICT INTELLECTUAL PROPERTY NOTICE & NON-REPLICATION DIRECTIVE**
+>
+> This repository displays a proprietary scientific architecture and methodological framework. **Unauthorized replication, imitation, or derivative utilization of the specific scientific concepts, hierarchical logic, or pipeline architectures contained herein is strictly prohibited.**
+>
+> Any attempt to reconstruct this logic or present these specific conceptual workflows as independent or original work will be considered a direct violation of international academic integrity, ethical research standards, and copyright laws. This repository serves as a **closed-reference technical portfolio demonstration only**; the methodology, prior art, and algorithmic hierarchies displayed are the exclusive intellectual property of **Vidit Zainith**.
+
 ## 📁 Repository Structure
 
 ```text
