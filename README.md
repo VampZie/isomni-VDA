@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2EC4B6&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+isomni-VDA+%F0%9F%A7%AC;Precision+Neuro-Bioinformatics+Grid;isomiR-mRNA+Interaction+Mapping..." alt="Animated Welcome Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2EC4B6&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+isomni-VaD+%F0%9F%A7%AC;Precision+Neuro-Bioinformatics+Grid;isomiR-mRNA+Interaction+Mapping..." alt="Animated Welcome Banner" />
 </p>
 
 <p align="center">
@@ -11,14 +11,14 @@
 ---
 
 <div align="center">
-  <h2>⚡ VDA-miRNA-Collaborative ⚡</h2>
+  <h2>⚡ VaD-miRNA-Collaborative ⚡</h2>
   <sub>A High-Resolution Framework for isomiR Dynamics in Neurodegeneration</sub>
 </div>
 
 ---
 
 ## 📋 Research Methodology Reference
-This repository contains the **computational engineering skeleton** developed for a large-scale collaborative study on **Vascular Dementia (VDA)**. 
+This repository contains the **computational engineering skeleton** developed for a large-scale collaborative study on **Vascular Dementia (VaD)**. 
 
 > [!IMPORTANT]
 > **Methodological Reference:** To protect ongoing journal communication and biological discoveries, specific biological thresholds and filtering constants have been masked. However, the **operational logic**, **infrastructure**, and **file-handling architectures** are fully preserved as a technical showcase.
@@ -35,7 +35,7 @@ This repository contains the **computational engineering skeleton** developed fo
 ## 📁 Repository Structure
 
 ```text
-VDA-miRNA-Collaborative/
+VaD-miRNA-Collaborative/
 │
 ├── core_pipeline/           # isomiR extraction and frequency merging
 ├── differential_expression/ # DESeq2 workflows for mRNA & miRNA
